@@ -16,7 +16,7 @@ class TransactionList extends StatelessWidget {
             TransactionDetails(
               img: 'assets/images/rest.png',
               transactionDetail: 'Restaurant Submarine',
-              time: '01:41 PM',
+              time: '01:41 PM,',
               day: 'Today',
               amount: '- \$14,5',
             ),
@@ -30,7 +30,7 @@ class TransactionList extends StatelessWidget {
             TransactionDetails(
               img: 'assets/images/cof.png',
               transactionDetail: 'Coffee cashback',
-              time: '11:26 AM',
+              time: '11:26 AM,',
               day: 'Today',
               amount: '+ \$0,75',
             ),

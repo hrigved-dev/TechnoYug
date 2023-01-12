@@ -31,7 +31,7 @@ class TransactionDetails extends StatelessWidget {
                   Text(transactionDetail, style: ktransactiontop,),
                   Row(
                     children: [
-                      Text('${time},', style: ktransactionbottom),
+                      Text('${time}', style: ktransactionbottom),
                       // SizedBox(height: ,),
                       Text(day, style: ktransactionbottom),
                     ],
